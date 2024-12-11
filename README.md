@@ -21,6 +21,6 @@ Technologies Used
 
 ## Additional launch instructions:
 
-- git clone 
+- git clone https://github.com/NataliaTopornitska/react_phone-catalog
 - npm install
 - npm start
