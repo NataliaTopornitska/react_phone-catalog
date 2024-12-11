@@ -1,6 +1,6 @@
 # React Product Catalog
 
- [DEMO LINK]()
+ [DEMO LINK](https://nataliatopornitska.github.io/react_phone-catalog/)
 
 This project is a React-based product catalog featuring a shopping cart and favorites page. Users can browse products, view detailed information, add items to their cart, and manage their favorite products. The catalog includes various product categories and provides a user-friendly interface for interacting with the products.
 
