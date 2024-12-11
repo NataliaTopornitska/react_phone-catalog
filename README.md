@@ -7,8 +7,6 @@ This project is a React-based product catalog featuring a shopping cart and favo
 
 ## Technologies Used
 
-Technologies Used
-
 - React: JavaScript library for building user interfaces
 - TypeScript: For type safety and improved development experience
 - React Router: For routing and navigation
